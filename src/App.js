@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Home from './Home';
 console.log("Testinggggggggggggg")
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         >
           Learn React
         </a>
+        <Home />
       </header>
     </div>
   );
